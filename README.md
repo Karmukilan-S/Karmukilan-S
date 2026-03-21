@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Mukil 👋
 
-- 🎓 Math Major in [National Institute of Science Education and Research ](https://www.niser.ac.in/)
+- 🎓 Math Major in [National Institute of Science Education and Research ](https://www.niser.ac.in/)(2023-2028)
 - 🔬 Interested in Pure Mathematics, Non-Linear Dynamics, Mathematical Biology, Theoretical Physics    
 - 📜 To know more , [CV](cv.pdf)
 ---

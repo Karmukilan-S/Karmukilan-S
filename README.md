@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🎓 Math Major in [National Institute of Science Education and Research ](https://www.niser.ac.in/)
 - 🔬 Interested in Pure Mathematics, Non-Linear Dynamics, Mathematical Biology, Theoretical Physics    
-- 📜 To know more , [CV]()
+- 📜 To know more , [CV](cv.pdf)
 ---
 
 ## About Me

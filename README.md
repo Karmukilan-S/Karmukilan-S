@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 # Hi, I'm Mukil 👋
 
 - 🎓 Math Major in [National Institute of Science Education and Research ](https://www.niser.ac.in/)(2023-2028)
-- 🔬 Interested in Pure Mathematics, Non-Linear Dynamics,Quantitative Finance , Theoretical Physics    
-- 📜 To know more , [CV_Research](cv.pdf), [CV_Quant]()
+- 🔬 Interested in Pure Mathematics, Quantitative Finance, Non-Linear Dynamics, Theoretical Physics    
+- 📜 To know more , [CV_Research](cv.pdf), [CV_Quant](Karmukilan_CV_Quant_Research.pdf)
 ---
 
 ## About Me
@@ -43,8 +43,9 @@ Here are some ideas to get you started:
 - Stochastic simulation with reproduction dynamics
 ### [Condensed Matter(part of coursework)](https://github.com/Karmukilan-S/Condensed-matter)
 - Numerical simulation of systems encountered in the course
-###
-
+### [Brownian Bug(Stochastic Model) Statistical Analysis](https://github.com/Karmukilan-S/Summer-internship-2026)
+- Simulation and Statistical Analysis Package for the Competitive Brownian Bug model
+---
 
 ## Contact
 
